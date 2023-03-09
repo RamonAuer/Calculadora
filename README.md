@@ -1,2 +1,2 @@
 # Calculadora
-Projeto onde faço uma calculadora
+Projeto onde crio uma calculadora
